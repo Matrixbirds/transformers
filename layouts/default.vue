@@ -6,6 +6,7 @@
         <div class="t-aside-menu">
           <nuxt-link to="/string/">String pipes</nuxt-link>
           <nuxt-link to="/url-builder/">URL Builder</nuxt-link>
+          <nuxt-link to="/hd-wallet/">HD Wallet</nuxt-link>
         </div>
         <footer>
           <p>Designed with &hearts; by <a href="https://gerald.top">Gerald</a></p>
